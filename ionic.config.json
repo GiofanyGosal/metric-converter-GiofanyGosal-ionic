@@ -1,0 +1,7 @@
+{
+  "name": "MetricConverter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
